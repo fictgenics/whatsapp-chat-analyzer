@@ -5,6 +5,5 @@ Run this project in streamlit and it will give you information such as who was t
 
 if you face any problem in running this project feel free to contact me on 
 
-instagram- @lakshya_jain_14
 linkedin- lakshya-jain-072987199
-email-     lakshyajain9872@gmail.com
+
