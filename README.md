@@ -14,6 +14,7 @@ Prerequisites
 1- Python 3.x
 2- pandas
 3- matplotlib
+4- Streamlit
 
 Installation
 
@@ -22,9 +23,10 @@ Installation
 
 Usage
 1 - Export the WhatsApp chat you want to analyze from WhatsApp
-2 - Place the exported file in the data folder of the project
-3 - Run the command python analyze.py in the terminal
-4 - The results will be displayed in the terminal and a bar graph showing the number of messages sent by each participant will be saved in the results folder
+2 - Run the streamlit app
+3 - Place the exported file in the streamlit web app
+4 - Enjoy the analysis !!
+
 
 Results
 The results of the analysis include:
