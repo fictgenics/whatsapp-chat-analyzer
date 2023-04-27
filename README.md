@@ -1,4 +1,4 @@
-WhatsApp Chat Analyzer
+#WhatsApp Chat Analyzer
 
 This project is a Python script that analyzes a WhatsApp chat export file and provides data analytics on the chat. The analytics provided include:
 
