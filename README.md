@@ -1,38 +1,31 @@
-#WhatsApp Chat Analyzer
+# WhatsApp Chat Analyzer
 
-This project is a Python script that analyzes a WhatsApp chat export file and provides data analytics on the chat. The analytics provided include:
+## This project is a Python script that analyzes a WhatsApp chat export file and provides data analytics on the chat. 
 
-1- Total number of messages sent
-2- Number of messages sent by each participant
-3- Percentage of messages sent by each participant
-4- Busiest day of the week for the chat
-5- Busiest hour of the day for the chat
-6- Getting Started
+# The analytics provided include:
 
-Prerequisites
+* Total number of messages, words, links, media file sent.
+- Number of messages sent by each participant
++ Percentage of messages sent by each participant
+- Busiest day of the week for the chat
++ Busiest hour of the day for the chat
+- Most Common Word
+* Most used Emoji
 
-1- Python 3.x
-2- pandas
-3- matplotlib
-4- Streamlit
+# Getting Started
 
-Installation
+## Prerequisites
 
-1- Clone the repository
-2 - Install the required packages using pip install -r requirements.txt
+* Python 3.x
+- pandas
++ matplotlib
+* Streamlit
 
-Usage
-1 - Export the WhatsApp chat you want to analyze from WhatsApp
-2 - Run the streamlit app
-3 - Place the exported file in the streamlit web app
-4 - Enjoy the analysis !!
+# Usage
+* Clone the repository
+- Make new environment
++ Install the required packages using pip install -r requirements.txt
+- Run ( streamlit run app.py) in your terminal.
+* Upload the chat file in webapp and enjoy your analysis !
 
 
-Results
-The results of the analysis include:
-
-1- Total number of messages sent:
-2- Number of messages sent by each participant:
-3- Percentage of messages sent by each participant:
-4- Busiest day of the week for the chat:
-5- Busiest hour of the day for the chat:
